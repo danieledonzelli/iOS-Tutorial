@@ -4,4 +4,4 @@ In this tutorial i’ll show you how to create (Interface builder and programmat
 
 Written tutorial [here](http://www.danieledonzelli.com/ios/uislider-tutorial/ "UISwitch Tutorial")
 
-Video Tutorial [here](https://www.youtube.com/watch?v=BVic2gf3lsY)
+Video Tutorial [here](https://youtu.be/5ZssTbijLog)
